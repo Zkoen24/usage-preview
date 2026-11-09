@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Logs and local state
+*.log
+*.tmp
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
